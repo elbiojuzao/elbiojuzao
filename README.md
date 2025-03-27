@@ -10,6 +10,14 @@ Me chamo Elbio Junior, sou do Paraá. Atualmente, estou cursando Análise e Dese
 
 <img 
     align="left" 
+    alt="Asp.Net"
+    title="Asp.Net" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
