@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Elbio Junior, sou do Paraá. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. 
+Me chamo Elbio Junior, sou de Curitiba - Paraná. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas. 
 
 ---
 
